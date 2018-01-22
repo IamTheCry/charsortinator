@@ -1,0 +1,11 @@
+{
+  "name": "charsortinator",
+  "version": "1.0.0",
+  "description": "sorts characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Corey",
+  "license": "ISC"
+}
